@@ -1,1 +1,1 @@
-# MYCaptain-assignments
+# Academic+Course Assignments
