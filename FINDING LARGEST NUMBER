@@ -1,4 +1,4 @@
-#Finding largest number in a sequence
+#Finding largest number in a sequence of positive numbers
 
 largest_so_far=-1
 print("Before",largest_so_far)
