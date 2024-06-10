@@ -1,0 +1,9 @@
+#finding average in a loop
+count=0
+summ=0
+for i in[12,32,1,13,21,3,221,21]:
+    count=count+1
+    summ=summ+i
+    print(count,i,summ)
+print("Average of the sequence is: ",summ/count )
+
