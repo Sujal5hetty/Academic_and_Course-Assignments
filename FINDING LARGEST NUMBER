@@ -1,0 +1,9 @@
+#Finding largest number in a sequence
+
+largest_so_far=-1
+print("Before",largest_so_far)
+for the_num in [12,34,56,32,23,5,3,22,123,532,443]:
+    if the_num>largest_so_far:
+        largest_so_far=the_num
+    print(largest_so_far,the_num) #if you want the prompt value this step is optional
+print("After", largest_so_far)
